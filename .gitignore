@@ -33,4 +33,7 @@ tests/_support/_generated
 /.vagrant
 
 #codelite project
-*.phpprj
+*.phprj
+
+docker-compose.yml
+Vagrantfile
